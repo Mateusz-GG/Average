@@ -2,9 +2,8 @@
 
 "" This program is selecting the lowest , posivite numbers and counting Average , open Console and type numbers , remember to separate them by SPACE.""
 
+{  
 
-
-{
     class Program
     {
         static void Main(string[] args)
